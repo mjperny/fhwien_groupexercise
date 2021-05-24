@@ -11,7 +11,7 @@ Die erweiterte Nutzung von Bash
 wird allerdings in diesem
 auf Git ausgerichteten
 Dokument nicht abgedeckt.
-So ist das.=======
+So ist das.
 
 Hallo. 
 Mein 
@@ -19,14 +19,13 @@ Name
 ist 
 Bianka! 
 
-<<<<<<< HEAD
+
 Und ich heiße Meggie!
 
-=======
 Mein Name ist Betty :-)
 
 Carina ist lost
 
 Sind wir jetzt fertig? :)
 
->>>>>>> 194898c39cd4667b431cbdd978946df0641f42c7
+Melanie räumt noch auf :)
