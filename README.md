@@ -11,4 +11,11 @@ Die erweiterte Nutzung von Bash
 wird allerdings in diesem
 auf Git ausgerichteten
 Dokument nicht abgedeckt.
-So ist das.
+So ist das.=======
+
+Hallo. 
+Mein 
+Name 
+ist 
+Bianka! 
+
