@@ -19,5 +19,9 @@ Name
 ist 
 Bianka! 
 
+<<<<<<< HEAD
 Und ich heiße Meggie!
 
+=======
+Mein Name ist Betty :-)
+>>>>>>> 194898c39cd4667b431cbdd978946df0641f42c7
