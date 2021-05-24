@@ -24,4 +24,7 @@ Und ich heiße Meggie!
 
 =======
 Mein Name ist Betty :-)
+
+Sind wir jetzt fertig? :)
+
 >>>>>>> 194898c39cd4667b431cbdd978946df0641f42c7
